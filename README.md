@@ -27,9 +27,10 @@ This project focuses on cleaning and preparing a raw dataset for analysis. The d
 
 ## 📂 Project Files
 
-* `DecodeLabs_Project1_Data_Cleaned.xlsx` — Cleaned dataset with Validation and Change_Log sheets
-* `DecodeLabs_Project1_Change_Log.pdf` — Documentation of the cleaning changes and their impact
+* [DecodeLabs_Project1_Data_Cleaned.xlsx](./DecodeLabs_Project1_Data_Cleaned.xlsx) — Cleaned dataset with Validation and Change_Log sheets
+* [DecodeLabs_Project1_Change_Log.pdf](./DecodeLabs_Project1_Change_Log.pdf) — Documentation of the cleaning changes and their impact
 
 ## 🎯 Outcome
 
 The dataset was successfully cleaned, standardized, and validated, making it ready for further analysis.
+
